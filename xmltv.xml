@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+
+<tv source-info-url="http://allfrtv.com/" source-info-name="XML TV Fr" generator-info-name="XML TV Fr" generator-info-url="http://allfrtv.com/">
+  <channel id="01TV">
+    <display-name>01TV</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/fr/thumb/f/fb/Logo_01net_(2019).svg/512px-Logo_01net_(2019).png" />
+  </channel>
+<channel id="6ter.fr">
+    <display-name>6ter</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/1403.png" />
+  </channel>
+<channel id="8MontBlanc.fr">
+    <display-name>8 Mont-Blanc</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/421.png" />
+  </channel>
+<channel id="AB1.fr">
+    <display-name>AB1</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/5.png" />
+  </channel>
+<channel id="AB3.fr">
+    <display-name>AB3</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/254.png" />
+  </channel>
+<channel id="ABXploreFR.fr">
+    <display-name>ABXPLORE</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/303.png" />
+  </channel>
+<channel id="Alsace20.fr">
+    <display-name>Alsace 20</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/524.png" />
+  </channel>
+<channel id="Arte.fr">
+    <display-name>Arte</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/111.png" />
+  </channel>
+<channel id="ATVMartinique">
+    <display-name>ATV Martinique</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/295.png" />
+  </channel>
+<channel id="BelRTL">
+    <display-name>BelRTL</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/1/1a/Bel_RTL_logo_2018.png/225px-Bel_RTL_logo_2018.png" />
+  </channel>
+<channel id="BeSeries.be">
+    <display-name>Be Séries</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/418.png" />
+  </channel>
+<channel id="BET.fr">
+    <display-name>BET</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/1960.png" />
+  </channel>
+<channel id="BFMBusiness.fr">
+    <display-name>BFM Business</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/1073.png" />
+  </channel>
+<channel id="BFMTV.fr">
+    <display-name>BFM TV</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/481.png" />
+  </channel>
+<channel id="BipTV.fr">
+    <display-name>BipTV.fr</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/924.png" />
+  </channel>
+<channel id="Boing.fr">
+    <display-name>Boing</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/924.png" />
+  </channel>
+<channel id="Boomerang.fr">
+    <display-name>Boomerang</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/321.png" />
+  </channel>
+<channel id="BX1">
+    <display-name>BX1</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/BX1_logo.svg/langfr-300px-BX1_logo.svg.png" />
+  </channel>
+<channel id="C8.fr">
+    <display-name>C8</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/445.png" />
+  </channel>
+<channel id="CanalD">
+    <display-name>Canal D</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Canal_D_Logo.svg/500px-Canal_D_Logo.png" />
+  </channel>
+<channel id="CanalJ.fr">
+    <display-name>Canal J</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/fr/6/69/Logo_canal_J.png" />
+  </channel>
+<channel id="CanalpartageTNTIDF.fr">
+    <display-name>Canal partagé TNT IDF</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/703.png" />
+  </channel>
+<channel id="CanalPlus.fr">
+    <display-name>Canal+</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/34.png" />
+  </channel>
+<channel id="CanalSavoir">
+    <display-name>savoir. tv</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/fr/e/ee/Logo_savoirtv.png" />
+  </channel>
+<channel id="CanalVie">
+    <display-name>Canal Vie</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Canal_Vie_2016_logo.png/640px-Canal_Vie_2016_logo.png" />
+  </channel>
+<channel id="CANALZOOM">
+    <display-name>CANALZOOM</display-name>
+    <icon src="https://commons.wikimedia.org/wiki/File:Canal_Zoom_logo.png" />
+  </channel>
+<channel id="Canvas">
+    <display-name>Canvas</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/24.png" />
+  </channel>
+<channel id="Cherie25.fr">
+    <display-name>Chérie 25</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/1399.png" />
+  </channel>
+<channel id="ClubRTL.be">
+    <display-name>Club RTL</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/50.png" />
+  </channel>
+<channel id="CNews.fr">
+    <display-name>CNews</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/226.png" />
+  </channel>
+<channel id="CStar.fr">
+    <display-name>CStar</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/458.png" />
+  </channel>
+<channel id="DemainTV">
+    <display-name>Demain TV</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/57.png" />
+  </channel>
+<channel id="een">
+    <display-name>één</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/23.png" />
+  </channel>
+<channel id="ElevenSports1FR.be">
+    <display-name>Eleven Sports 1</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ELEVEN_SPORTS.png/320px-ELEVEN_SPORTS.png" />
+  </channel>
+<channel id="ElevenSports2FR.be">
+    <display-name>Eleven Sports 2</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ELEVEN_SPORTS.png/320px-ELEVEN_SPORTS.png" />
+  </channel>
+<channel id="ES1.fr">
+    <display-name>ES1</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/fr/c/c2/ES1_Logo.png" />
+  </channel>
+<channel id="Eurochannel.fr">
+    <display-name>Eurochannel</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/1190.png" />
+  </channel>
+<channel id="Euronews.fr">
+    <display-name>Euronews</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/140.png" />
+  </channel>
+<channel id="France2.fr">
+    <display-name>France 2</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/4.png" />
+  </channel>
+<channel id="France24.fr">
+    <display-name>France 24</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/529.png" />
+  </channel>
+<channel id="France3.fr">
+    <display-name>France 3</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/80.png" />
+  </channel>
+<channel id="France4.fr">
+    <display-name>France 4</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/78.png" />
+  </channel>
+<channel id="France5.fr">
+    <display-name>France 5</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/47.png" />
+  </channel>
+<channel id="FranceFrance3ParisIdF.fr">
+    <display-name>France 3 Paris Ile-de-France</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/1939.png" />
+  </channel>
+<channel id="FranceInfo.fr">
+    <display-name>Franceinfo</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/2111.png" />
+  </channel>
+<channel id="FranceInter">
+    <display-name>FranceInter</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/fr/thumb/3/39/France_Inter_logo.svg/langfr-195px-France_Inter_logo.svg.png" />
+  </channel>
+<channel id="I24news.fr">
+    <display-name>I24news</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/781.png" />
+  </channel>
+<channel id="IDF1">
+    <display-name>IDF1</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/701.png" />
+  </channel>
+<channel id="Ketnet">
+    <display-name>Ketnet</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/1280.png" />
+  </channel>
+<channel id="KTO.fr">
+    <display-name>KTO</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/110.png" />
+  </channel>
+<channel id="LaChaîneMeteo.fr">
+    <display-name>La Chaîne Météo</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/124.png" />
+  </channel>
+<channel id="LaChaineParlementaire.fr">
+    <display-name>La Chaîne parlementaire</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/234.png" />
+  </channel>
+<channel id="LaDeux.be">
+    <display-name>Tipik</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/187.png" />
+  </channel>
+<channel id="LaTrois.be">
+    <display-name>La Trois</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/892.png" />
+  </channel>
+<channel id="LaUne.be">
+    <display-name>La Une</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/164.png" />
+  </channel>
+<channel id="LCI.fr">
+    <display-name>LCI</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/112.png" />
+  </channel>
+<channel id="LCN">
+    <display-name>Le Canal Nouvelles</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/fr/thumb/e/e7/LCN_(logo%2C_2020).svg/640px-LCN_(logo%2C_2020).png" />
+  </channel>
+<channel id="LCP2424.fr">
+    <display-name>LCP 24/24</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/fr/thumb/f/fd/Logo_LCP-AN_(2019).svg/512px-Logo_LCP-AN_(2019).png" />
+  </channel>
+<channel id="LN24">
+    <display-name>LN24</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/LN24_-_Logo.png/225px-LN24_-_Logo.png" />
+  </channel>
+<channel id="M6.fr">
+    <display-name>M6</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/118.png" />
+  </channel>
+<channel id="M6Boutique.fr">
+    <display-name>M6 Boutique</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/184.png" />
+  </channel>
+<channel id="Martinique1.fr">
+    <display-name>Martinique la 1ère</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/328.png" />
+  </channel>
+<channel id="MATV">
+    <display-name>MaTV</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/MAtv_logo.png/640px-MAtv_logo.png" />
+  </channel>
+<channel id="MyZenTV.fr">
+    <display-name>My Zen TV</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/My_Zen_Tv_LOGO_Couleur_vide.jpg/480px-My_Zen_Tv_LOGO_Couleur_vide.jpg" />
+  </channel>
+<channel id="Noovo.ca">
+    <display-name>Noovo</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/5/52/Noovo_logo.png" />
+  </channel>
+<channel id="NOTELE">
+    <display-name>NOTELE</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Not%C3%A9l%C3%A9_logo.jpg/420px-Not%C3%A9l%C3%A9_logo.jpg" />
+  </channel>
+<channel id="NRJ12.fr">
+    <display-name>NRJ 12</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/444.png" />
+  </channel>
+<channel id="NRJHits">
+    <display-name>NRJHits</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/fr/thumb/3/36/NRJ_Hits_2017.svg/langfr-300px-NRJ_Hits_2017.svg.png" />
+  </channel>
+<channel id="NRJHits.fr">
+    <display-name>NRJ Hits</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/605.png" />
+  </channel>
+<channel id="NT1.fr">
+    <display-name>TFX</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/446.png" />
+  </channel>
+<channel id="Numero23.fr">
+    <display-name>RMC Story</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/1402.png" />
+  </channel>
+<channel id="PlugRTL.be">
+    <display-name>Plug RTL</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/377.png" />
+  </channel>
+<channel id="Polynesie1.fr">
+    <display-name>Polynésie la 1ère</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/459.png" />
+  </channel>
+<channel id="prise2">
+    <display-name>Prise 2</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Prise_2_%282018%29_logo.png/640px-Prise_2_%282018%29_logo.png" />
+  </channel>
+<channel id="RadioContact">
+    <display-name>RadioContact</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/en/e/e6/Radio_Contact_logo.png" />
+  </channel>
+<channel id="RDS2.ca">
+    <display-name>RDS2</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/fr/thumb/d/d2/RDS2_(logo).svg/640px-RDS2_(logo).png" />
+  </channel>
+<channel id="RDS.ca">
+    <display-name>RDS</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/RDS_logo.svg/500px-RDS_logo.png" />
+  </channel>
+<channel id="RDSInfo.ca">
+    <display-name>RDS Info</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/fr/4/43/RDS_Info_%28logo%29.png" />
+  </channel>
+<channel id="Reunion1.fr">
+    <display-name>Réunion la 1ère</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/245.png" />
+  </channel>
+<channel id="RFMTV.fr">
+    <display-name>RFM TV</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/241.png" />
+  </channel>
+<channel id="RougeTV.ch">
+    <display-name>Rouge TV</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Rouge_Tv-_cmjn.png" />
+  </channel>
+<channel id="RTL9.fr">
+    <display-name>RTL9</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/115.png" />
+  </channel>
+<channel id="RTLTVI.be">
+    <display-name>RTL TVI</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/168.png" />
+  </channel>
+<channel id="RTSDeux.ch">
+    <display-name>RTS Deux</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/183.png" />
+  </channel>
+<channel id="RTSUn.ch">
+    <display-name>RTS Un</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/202.png" />
+  </channel>
+<channel id="Telenantes.fr">
+    <display-name>Télénantes</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/491.png" />
+  </channel>
+<channel id="TeleQuebec">
+    <display-name>Télé-Québec</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/T%C3%A9l%C3%A9-Qu%C3%A9bec_logo.svg/500px-T%C3%A9l%C3%A9-Qu%C3%A9bec_logo.png" />
+  </channel>
+<channel id="Telesud.fr">
+    <display-name>Télésud</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/449.png" />
+  </channel>
+<channel id="TF1.fr">
+    <display-name>TF1</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/192.png" />
+  </channel>
+<channel id="TF1SeriesFilms.fr">
+    <display-name>TF1 Séries Films</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/1404.png" />
+  </channel>
+<channel id="TFO">
+    <display-name>TFO</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/TFO_2012_Logo.svg/500px-TFO_2012_Logo.png" />
+  </channel>
+<channel id="TV5Monde.fr">
+    <display-name>TV5MONDE</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/205.png" />
+  </channel>
+<channel id="TV5MondeAfrique.fr">
+    <display-name>TV5MONDE Afrique</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/233.png" />
+  </channel>
+<channel id="TV5MondeEurope.fr">
+    <display-name>TV5MONDE Europe</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/232.png" />
+  </channel>
+<channel id="TV7Bordeaux.fr">
+    <display-name>TV7 Bordeaux</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/273.png" />
+  </channel>
+<channel id="TVA.ca">
+    <display-name>TVA</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/fr/thumb/2/23/TVA_(logo%2C_2020).svg/640px-TVA_(logo%2C_2020).png" />
+  </channel>
+<channel id="TVASports">
+    <display-name>TVA Sports</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/fr/thumb/5/59/TVA_Sports_(logo%2C_2018).svg/640px-TVA_Sports_(logo%2C_2018).png" />
+  </channel>
+<channel id="TVASports2">
+    <display-name>TVA Sports 2</display-name>
+    <icon src="https://www.cooptel.ca/wp-content/uploads/2016/07/TVA-Sports2.png" />
+  </channel>
+<channel id="TvBreizh.fr">
+    <display-name>TV Breizh</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/225.png" />
+  </channel>
+<channel id="TVRRennes35Bretagne.fr">
+    <display-name>TVR</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/539.png" />
+  </channel>
+<channel id="TVTours.fr">
+    <display-name>TV Tours</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Logo_tvt_2016_RVB.png/480px-Logo_tvt_2016_RVB.png" />
+  </channel>
+<channel id="W9.fr">
+    <display-name>W9</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/119.png" />
+  </channel>
+<channel id="Weo.fr">
+    <display-name>Weo</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/119.png" />
+  </channel>
+<channel id="ZTele">
+    <display-name>Z</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Z_t%C3%A9l%C3%A9.png/529px-Z_t%C3%A9l%C3%A9.png" />
+  </channel>
+</tv>
